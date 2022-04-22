@@ -47,8 +47,8 @@ params:
         title: Elmasy
         imageUrl: "logo.png"
         imageTitle: logo
-        imageWidth: 512
-        imageHeight: 512
+        imageWidth: 256
+        imageHeight: 256
         buttons:
             - name: About
               url: about
