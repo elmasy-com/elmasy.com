@@ -54,6 +54,8 @@ params:
               url: https://scan.elmasy.com
             - name: About
               url: about
+            - name: Download
+              url: download/
             - name: API
               url: swagger-ui
 
