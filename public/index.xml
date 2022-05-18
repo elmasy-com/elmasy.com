@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title></title>
+    <link>https://elmasy.com/</link>
+    <description>Recent content on </description>
+    <image>
+      <url>https://elmasy.com/logo.png</url>
+      <link>https://elmasy.com/logo.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://elmasy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://elmasy.com/about/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://elmasy.com/about/</guid>
+      <description>Intro Elmasy is an attack surface management tool. Discover and assess as many as possible publicly accessible assets from a domain name.
+This project has 3 goals:
+ To provide a website for non-professionals/professionals to check the attack surfaces of publicly accessible assets. To provide an API for professionals to work with easily.  The website will use the same API as your service.   To provide a wide range of libraries for professionals to work with without relying on external services.</description>
+    </item>
+    
+  </channel>
+</rss>
