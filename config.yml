@@ -50,6 +50,8 @@ params:
         imageWidth: 256
         imageHeight: 256
         buttons:
+            - name: Scan
+              url: https://scan.elmasy.com
             - name: About
               url: about
             - name: API
