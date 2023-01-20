@@ -52,6 +52,10 @@ params:
         buttons:
             - name: Scan
               url: https://scan.elmasy.com
+            - name: Columbus
+              url: https://columbus.elmasy.com
+            - name: Blog
+              url: https://blog.elmasy.com
             - name: About
               url: about
             - name: Download
@@ -62,6 +66,8 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/elmasy-com/"
+        - name: mastodon
+          url: https://infosec.exchange/@elmasy
 
     editPost:
         URL: "https://github.com/elmasy-com/elmasy.com"

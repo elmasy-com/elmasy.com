@@ -17,7 +17,7 @@
       <guid>https://elmasy.com/about/</guid>
       <description>Intro Elmasy is an attack surface management tool. Discover and assess as many as possible publicly accessible assets from a domain name.
 This project has 3 goals:
- To provide a website for non-professionals/professionals to check the attack surfaces of publicly accessible assets. To provide an API for professionals to work with easily.  The website will use the same API as your service.   To provide a wide range of libraries for professionals to work with without relying on external services.</description>
+To provide a website for non-professionals/professionals to check the attack surfaces of publicly accessible assets. To provide an API for professionals to work with easily. The website will use the same API as your service. To provide a wide range of libraries for professionals to work with without relying on external services.</description>
     </item>
     
   </channel>
