@@ -68,6 +68,8 @@ params:
           url: "https://github.com/elmasy-com/"
         - name: mastodon
           url: https://infosec.exchange/@elmasy
+        - name: twitter
+          url: https://twitter.com/elmasy_com
 
     editPost:
         URL: "https://github.com/elmasy-com/elmasy.com"
