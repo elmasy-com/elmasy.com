@@ -58,8 +58,6 @@ params:
               url: https://blog.elmasy.com
             - name: About
               url: about
-            - name: Download
-              url: download/
             - name: API
               url: swagger-ui
 
