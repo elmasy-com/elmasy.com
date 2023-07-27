@@ -56,6 +56,8 @@ params:
               url: https://columbus.elmasy.com
             - name: Blog
               url: https://blog.elmasy.com
+            - name: Docs
+              url: https://docs.elmasy.com
             - name: About
               url: about
             - name: API
